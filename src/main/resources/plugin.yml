@@ -1,0 +1,12 @@
+name: Skywars
+version: 3.0
+main: me.siwannie.skywars.Skywars
+softdepend: [PlaceholderAPI]
+authors: [Siwannie]
+description: Tournament Skywars by Siwannie
+
+commands:
+  skywars:
+    description: Main command
+    aliases: [sw, event]
+    usage: /sw <args>
